@@ -72,28 +72,3 @@ li{
     height: auto;
     width: 45px;
   }
-
-  @media  screen and (max-width: 600px)
-  {
-    .navbar{
-        display: none;
-    }
-    .fa-bars{
-        font-size: 35px;
-        color: rgb(0, 0, 0);
-        position: relative;
-        left: 170px;
-    }
-    .fa-twitch{
-        display: none;
-    }
-    .fa-discord{
-        display: none;
-    }
-    .fa-instagram{
-        display: none;
-    }
-    .fa-x-twitter{
-        display: none;
-    }
-  }
